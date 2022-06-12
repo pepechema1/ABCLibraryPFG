@@ -2,7 +2,7 @@
 package models;
 
 import data.Estudiantes;
-import util.Conexion;
+import Util.Conexion;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

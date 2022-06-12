@@ -2,7 +2,7 @@ package models;
 
 import data.Empresa;
 import data.Usuarios;
-import util.Conexion;
+import Util.Conexion;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

@@ -2,7 +2,7 @@
 package models;
 
 import data.Editorial;
-import util.Conexion;
+import Util.Conexion;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

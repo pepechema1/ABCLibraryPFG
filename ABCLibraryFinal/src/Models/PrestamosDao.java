@@ -2,7 +2,7 @@
 package models;
 
 import data.Prestamos;
-import util.Conexion;
+import Util.Conexion;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
