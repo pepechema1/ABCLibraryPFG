@@ -24,4 +24,4 @@ JavaSE-11</br>
     <li>Librerías</li>
     <li>Modelado BBDD</li>
     <li>Imágenes</li>
-</ul></br>
+</ul>
