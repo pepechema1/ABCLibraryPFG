@@ -1,5 +1,5 @@
 
-package Util;
+package util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -10,7 +10,7 @@ public class Conexion {
     Connection con;
     public Connection getConnection() {
         try {
-            String db = "jdbc:mysql://localhost:3306/trabajobiblio";
+            String db = "jdbc:mysql://localhost:3306/abclibrary";
             con = DriverManager.getConnection(db, "root", "");
             return con;
         } catch (SQLException e) {

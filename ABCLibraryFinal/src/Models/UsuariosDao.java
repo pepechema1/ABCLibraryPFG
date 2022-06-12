@@ -1,6 +1,9 @@
-package Models;
+package models;
 
-import Util.Conexion;
+import data.Empresa;
+import data.Usuarios;
+import util.Conexion;
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
